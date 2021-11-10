@@ -1,0 +1,65 @@
+[
+	{
+		"name": "Venkat",
+		"role": "Manager",
+		"description": "Venkat comes in with a 25 years experience in Core IT industry. Though he has been in the managerial positions at various organisations, he has retained his passion for technology. With his experience, he has been leading the initiative of melding the Techniques and Technology seamlessly. He brings deep insights to the team. He is well-versed across Banking, Automotive, Logistic domains and is adept at a variety of latest technologies",
+		"image": "assets/images/default-images/male-avatar.svg"
+	},
+	{
+		"name": "Kalpana",
+		"role": "Manager",
+		"description": "Kalpana brings to the team, around 18 years of experience across Pharmacovigilance, Investment Banking, Manufacturing, Finance domains. She has a keen Analytical mind solving myriad problems both technical and functional. Included in her repertoire are Databases, Programming languages, and Reporting tools.",
+		"image": "assets/images/default-images/female-avatar.svg"
+	},
+
+	{
+		"name": "Anuradha",
+		"role": "Project Manager",
+		"description": "A multifaceted personality with strong Java & database knowledge. Her analytical skills keep her apart from the rest of her kind. A good task master & intelligent leader, she ensures timely deliveries to Clients.",
+		"image": "assets/images/default-images/female-avatar.svg"
+	},
+
+	{
+		"name": "Sathya",
+		"role": "Project Leader",
+		"description": "Sathya’s Core competency lies in his in-depth PHP knowledge. With over 7 years experience, he has been the lynchpin for many of the development activities. He leads all the social events at Open IT and is fun to be with.",
+		"image": "assets/images/default-images/male-avatar.svg"
+	},
+	{
+		"name": "Muthu",
+		"role": "Web Developer",
+		"description": "Muthu with over three years experience is an excellent problem solver. He is adept with PHP, JavaScript, and a quick learner.",
+		"image": "assets/images/default-images/male-avatar.svg"
+	},
+	{
+		"name": "Praveen",
+		"role": "Developer",
+		"description": "Praveen has a keen analytical mind and a quick learner. With his eye for aesthetics and details, he is an invaluable member of the team.",
+		"image": "assets/images/default-images/male-avatar.svg",
+		"social": {
+			"linkedIn": "https://www.linkedin.com/in/thisispraveenj",
+			"twitter": "https://twitter.com/thisispraveenj",
+			"fb": "",
+			"email": "thisispraveenj@gmail.com",
+			"mobile": ""
+		}
+	},
+	{
+		"name": "Gowtham",
+		"role": "Developer",
+		"description": "",
+		"image": "assets/images/default-images/male-avatar.svg"
+	},
+	{
+		"name": "Ajay",
+		"role": "Developer",
+		"description": "",
+		"image": "assets/images/default-images/male-avatar.svg"
+	},
+	{
+		"name": "Abinash",
+		"role": "Developer",
+		"description": "",
+		"image": "assets/images/default-images/male-avatar.svg"
+	}
+]

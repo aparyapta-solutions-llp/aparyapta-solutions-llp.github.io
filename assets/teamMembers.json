@@ -1,5 +1,11 @@
 [
 	{
+		"name": "Sridhar",
+		"role": "CEO",
+		"description": "",
+		"image": "assets/images/default-images/male-avatar.svg"
+	},
+	{
 		"name": "Venkat",
 		"role": "Manager",
 		"description": "Venkat comes in with a 25 years experience in Core IT industry. Though he has been in the managerial positions at various organisations, he has retained his passion for technology. With his experience, he has been leading the initiative of melding the Techniques and Technology seamlessly. He brings deep insights to the team. He is well-versed across Banking, Automotive, Logistic domains and is adept at a variety of latest technologies",
@@ -9,7 +15,10 @@
 		"name": "Kalpana",
 		"role": "Manager",
 		"description": "Kalpana brings to the team, around 18 years of experience across Pharmacovigilance, Investment Banking, Manufacturing, Finance domains. She has a keen Analytical mind solving myriad problems both technical and functional. Included in her repertoire are Databases, Programming languages, and Reporting tools.",
-		"image": "assets/images/default-images/female-avatar.svg"
+		"image": "assets/images/default-images/female-avatar.svg",
+		"social": {
+			"linkedIn": "kalpana-senthilarasu-openitworks"
+		}
 	},
 
 	{
